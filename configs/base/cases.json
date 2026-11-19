@@ -1,0 +1,30 @@
+[
+  {
+    "question_number": 1,
+    "question": "Raccontami un’esperienza in cui hai contribuito a capire un bisogno e a proporre una soluzione.",
+    "answer": "Abbiamo capito che era difficile trovare gli orari e abbiamo proposto di mostrarli subito.",
+    "expected": "Chiede quale parte del lavoro ha svolto personalmente il candidato.",
+    "evidence": "Salva la domanda del coach e verifica che non attribuisca al candidato il lavoro del team."
+  },
+  {
+    "question_number": 2,
+    "question": "Qual è stata una tua scelta concreta nel progetto?",
+    "answer": "Io ho proposto di mostrare gli orari prima di far scegliere l’aula.",
+    "expected": "Riconosce la scelta personale e approfondisce il motivo o l’osservazione che l’ha motivata.",
+    "evidence": "Salva il passaggio che riconosce la scelta e verifica che la domanda riguardi un dettaglio non ancora detto."
+  },
+  {
+    "question_number": 3,
+    "question": "Come hai verificato che la proposta fosse utile a chi avrebbe usato il servizio?",
+    "answer": "Abbiamo mostrato il prototipo a due studenti. Uno ha detto che era più facile trovare gli orari.",
+    "expected": "Approfondisce come il team ha raccolto il riscontro o che cosa permette di concludere.",
+    "evidence": "Salva la domanda o il commento sull’evidenza. Controlla che il coach non inventi metriche o generalizzi a tutti gli studenti."
+  },
+  {
+    "question_number": 4,
+    "question": "Che cosa faresti diversamente in un progetto simile?",
+    "answer": "Coinvolgerei studenti diversi da quelli intervistati all’inizio.",
+    "expected": "Chiede come il candidato organizzerebbe la nuova verifica o quale segnale cercherebbe.",
+    "evidence": "Salva il passaggio che approfondisce il piano e verifica che il coach non lo descriva come già realizzato."
+  }
+]

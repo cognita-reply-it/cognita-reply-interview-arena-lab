@@ -1,0 +1,217 @@
+{
+  "retrieved_on": "2026-09-28",
+  "description": "Pinned text notices and model cards; full files copied byte for byte, embedded header notice blocks extracted verbatim with source file hashes and line ranges. Go notices copied from the pinned development toolchain.",
+  "artifacts": [
+    {
+      "file": "LLAMA-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/LICENSE",
+      "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+      "bytes": 1078
+    },
+    {
+      "file": "llama-jsonhpp-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/licenses/LICENSE-jsonhpp",
+      "sha256": "c0d068392ea65358b798b8c165103560f06e9e3b38c4ab4e2d8810a7b931af86",
+      "bytes": 1075
+    },
+    {
+      "file": "llama-cpp-httplib-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/cpp-httplib/LICENSE",
+      "sha256": "4b45cbe16d7b71b89ae6127e26e0d90a029198ca5e958ad8e3d0b8bbed364d8b",
+      "bytes": 1075
+    },
+    {
+      "file": "llama-rotate-bits-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/hash/rotate-bits/LICENSE.md",
+      "sha256": "ca0b44aec101afb6b46f4c39b23369fa06a64fb9c0add37c2689d702156fee55",
+      "bytes": 1088
+    },
+    {
+      "file": "llama-sha256-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/hash/sha256/LICENSE",
+      "sha256": "b81d0022ca6367918c67b57e9647d3513ee58809fd4b0ef0b3492f1356bced25",
+      "bytes": 41
+    },
+    {
+      "file": "llama-xxhash-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/hash/xxhash/LICENSE",
+      "sha256": "6ffedbc0f7878612d2b23589f1ff2ab15633e1df7963a5d9fc750ec5500c7e7a",
+      "bytes": 1389
+    },
+    {
+      "file": "llama-ui-big-integer-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/tools/ui/src/lib/vendors/big-integer/LICENSE",
+      "sha256": "e9b0e94f628e00b5ed98046cfa041696ff89eebbbdd54108ee350625bc6d0363",
+      "bytes": 1234
+    },
+    {
+      "file": "llama-ui-nerdamer-prime-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/tools/ui/src/lib/vendors/nerdamer-prime/LICENSE",
+      "sha256": "c9f52548869a0a2e63a7100055c54cebf36b9327c8fc2da7cf9ca8dddc2f1cca",
+      "bytes": 1073
+    },
+    {
+      "file": "QWEN-LICENSE.txt",
+      "source": "https://huggingface.co/Qwen/Qwen3.5-4B/raw/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE",
+      "sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a",
+      "bytes": 11544
+    },
+    {
+      "file": "QWEN-MODEL-CARD.md",
+      "source": "https://huggingface.co/Qwen/Qwen3.5-4B/raw/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/README.md",
+      "sha256": "1406be1b6b8fd8a6545870da516912804756593628a1d0fb0a7965211e82a7bb",
+      "bytes": 77661
+    },
+    {
+      "file": "UNSLOTH-MODEL-CARD.md",
+      "source": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/raw/e87f176479d0855a907a41277aca2f8ee7a09523/README.md",
+      "sha256": "28546f5fc4f22ee1b3f17b908957f17fcfa66174032136265bdb27f404bc1e6c",
+      "bytes": 78906
+    },
+    {
+      "file": "GO-LICENSE.txt",
+      "source": "https://github.com/golang/go/blob/go1.27.1/LICENSE",
+      "sha256": "911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad",
+      "bytes": 1453
+    },
+    {
+      "file": "go-vendor-crypto-LICENSE.txt",
+      "source": "https://github.com/golang/go/blob/go1.27.1/src/vendor/golang.org/x/crypto/LICENSE",
+      "sha256": "911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad",
+      "bytes": 1453
+    },
+    {
+      "file": "go-vendor-net-LICENSE.txt",
+      "source": "https://github.com/golang/go/blob/go1.27.1/src/vendor/golang.org/x/net/LICENSE",
+      "sha256": "911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad",
+      "bytes": 1453
+    },
+    {
+      "file": "go-vendor-sys-LICENSE.txt",
+      "source": "https://github.com/golang/go/blob/go1.27.1/src/vendor/golang.org/x/sys/LICENSE",
+      "sha256": "911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad",
+      "bytes": 1453
+    },
+    {
+      "file": "go-vendor-text-LICENSE.txt",
+      "source": "https://github.com/golang/go/blob/go1.27.1/src/vendor/golang.org/x/text/LICENSE",
+      "sha256": "911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad",
+      "bytes": 1453
+    },
+    {
+      "file": "QWEN3-LICENSE.txt",
+      "source": "https://huggingface.co/Qwen/Qwen3-4B-GGUF/raw/bc640142c66e1fdd12af0bd68f40445458f3869b/LICENSE",
+      "sha256": "5de36594c10839788a8c589443a8ef9d8b8d17c65a1b5807206ae037fc36c6bd",
+      "bytes": 11544
+    },
+    {
+      "file": "QWEN3-GGUF-MODEL-CARD.md",
+      "source": "https://huggingface.co/Qwen/Qwen3-4B-GGUF/raw/bc640142c66e1fdd12af0bd68f40445458f3869b/README.md",
+      "sha256": "f7b7cbdbeab2a25b55e92cf160c035287374253b13af7ea2d5178847f6f8537e",
+      "bytes": 7576
+    },
+    {
+      "file": "QWEN3-BASE-MODEL-CARD.md",
+      "source": "https://huggingface.co/Qwen/Qwen3-4B/raw/1cfa9a7208912126459214e8b04321603b3df60c/README.md",
+      "sha256": "71add1cd091c309b1cb1a6b943f2476eb2b004124b3bd1d32dcd0b24cc1abc47",
+      "bytes": 16857
+    },
+    {
+      "file": "llama-miniaudio-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/miniaudio/miniaudio.h",
+      "sha256": "2ca19125fe0d68a91a1fe137c3125e954c541709da15506aad859e23f2b2f43f",
+      "bytes": 2603,
+      "source_sha256": "ac7af4de748b7e26b777f37e01cee313a308a7296a3eb080e2906b320cc55c89",
+      "source_bytes": 4108168,
+      "extraction": "Verbatim license/comment block only; no source code retained.",
+      "source_lines": [
+        95816,
+        95864
+      ]
+    },
+    {
+      "file": "llama-stb-image-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/stb/stb_image.h",
+      "sha256": "10ed5a55912965c9846c947486fc42a537c6e7f92dbabd68bf26963da320e46d",
+      "bytes": 2673,
+      "source_sha256": "594c2fe35d49488b4382dbfaec8f98366defca819d916ac95becf3e75f4200b3",
+      "source_bytes": 283010,
+      "extraction": "Verbatim license/comment block only; no source code retained.",
+      "source_lines": [
+        7948,
+        7988
+      ]
+    },
+    {
+      "file": "llama-sheredom-subprocess-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/sheredom/subprocess.h",
+      "sha256": "1c7b71e03e1be684d51dfeb56d6358cc728097d844cfd72484f28835ff4c091b",
+      "bytes": 1276,
+      "source_sha256": "ddec448cb93c2a5096f914a5b796f707dcf0a9e91591ca13000d210200160cb1",
+      "source_bytes": 68500,
+      "extraction": "Verbatim license/comment block only; no source code retained.",
+      "source_lines": [
+        6,
+        31
+      ]
+    },
+    {
+      "file": "llama-sha1-NOTICE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/vendor/hash/sha1/sha1.h",
+      "sha256": "92f861681942aad5d9b4005cc1811a006009018a3539329f021e04bd2385e038",
+      "bytes": 78,
+      "source_sha256": "aded220220587c5a409dfa04f4bc2e760bd5bc81ac74af830aceb5bde7bc43e6",
+      "source_bytes": 689,
+      "extraction": "Verbatim license/comment block only; no source code retained.",
+      "source_lines": [
+        4,
+        8
+      ]
+    },
+    {
+      "file": "llama-llamafile-sgemm-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/ggml-org/llama.cpp/d77dd0806dc26fc418273ef99f88da11239ca41b/ggml/src/ggml-cpu/llamafile/sgemm.cpp",
+      "sha256": "08b820564baaf70af73099bdbb0f1a0d69b3362a55d4564160b0e3e3b6648116",
+      "bytes": 1117,
+      "source_sha256": "be36584586fe05b4a046ae1e149a3800d34744f87a63140c80d7c9811419f506",
+      "source_bytes": 162873,
+      "extraction": "Verbatim license/comment block only; no source code retained.",
+      "source_lines": [
+        1,
+        21
+      ]
+    },
+    {
+      "file": "llama-boringssl-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/google/boringssl/0ce57bbf06a35864fa39e3b9346d41e833683383/LICENSE",
+      "sha256": "827c8d8fc207c2392794eef9e00fe246f9f61fdcc132556c275be3dd8c3cd97f",
+      "bytes": 13115
+    },
+    {
+      "file": "llama-boringssl-fiat-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/google/boringssl/0ce57bbf06a35864fa39e3b9346d41e833683383/third_party/fiat/LICENSE",
+      "sha256": "9eacbcb81be660840c714a560a9d65ba07913db98dd4baf969f78dd499fdd60f",
+      "bytes": 638
+    },
+    {
+      "file": "llama-boringssl-fiat-AUTHORS.txt",
+      "source": "https://raw.githubusercontent.com/google/boringssl/0ce57bbf06a35864fa39e3b9346d41e833683383/third_party/fiat/AUTHORS",
+      "sha256": "ad74c036a6afaedc418fed65f171c877c2f74a4c70938a03930aa11c98a20508",
+      "bytes": 648
+    },
+    {
+      "file": "llama-ui-NOTICES.txt",
+      "source": "Derived from exact npm archives recorded in llama-ui-sources.json and the pinned llama.cpp b11233 UI lockfile.",
+      "sha256": "982ed3e783b2498d63a37c65dd053468182d9b4b80b06c599294077f25fa1744",
+      "bytes": 579292,
+      "format": "Verbatim notice text with package/file separator headings."
+    },
+    {
+      "file": "llama-ui-sources.json",
+      "source": "Derived from exact npm archives recorded in llama-ui-sources.json and the pinned llama.cpp b11233 UI lockfile.",
+      "sha256": "c81dffe74177968e1a0d69f5881575266fdd4a1f1f5a52c70ae03574879f2534",
+      "bytes": 211453,
+      "format": "Generated source provenance and integrity metadata."
+    }
+  ]
+}

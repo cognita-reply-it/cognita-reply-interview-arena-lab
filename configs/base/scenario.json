@@ -1,0 +1,18 @@
+{
+  "title": "Colloquio di prova",
+  "role": "Junior Business Analyst",
+  "context": "È una simulazione di colloquio per un ruolo junior. Il gruppo può sostituire i fatti d’esempio con quelli del proprio progetto universitario. Usa i fatti disponibili e chiedi chiarimenti sui dettagli mancanti.",
+  "experiences": [
+    {
+      "id": "progetto-universitario",
+      "title": "Progetto universitario",
+      "facts": "## Il contributo del candidato\nIn un progetto sulle prenotazioni delle aule studio, hai preparato la traccia per due interviste e raccolto le note. Hai proposto di mostrare gli orari disponibili prima della scelta dell’aula.\n\n## Il lavoro del team\nIl team ha intervistato due studenti, ha creato un prototipo dopo aver raccolto le osservazioni e lo ha mostrato agli stessi studenti.\n\n## Gli esiti conosciuti\nUno studente ha detto che gli orari erano più facili da trovare. L’altro ha chiesto un filtro per capienza. Il team non ha misurato il tempo risparmiato e il servizio non è stato pubblicato.",
+      "questions": [
+        "Raccontami un’esperienza in cui hai contribuito a capire un bisogno e a proporre una soluzione.",
+        "Qual è stata una tua scelta concreta nel progetto?",
+        "Come hai verificato che la proposta fosse utile a chi avrebbe usato il servizio?",
+        "Che cosa faresti diversamente in un progetto simile?"
+      ]
+    }
+  ]
+}

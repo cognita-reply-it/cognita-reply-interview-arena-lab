@@ -1,0 +1,28 @@
+{
+  "title": "Understanding a need and explaining a solution",
+  "role": "Junior Business Analyst at Filo, a fictional company that builds digital services for universities",
+  "context": "This is a practice interview for a junior staff position. The interviewer wants to understand how you identify a need, contribute to a solution and explain your own work. You do not need professional experience. A university project can provide a relevant example. The position is a job rather than an internship, and this exercise is not part of a hiring process. All names and facts in the scenario are fictional.",
+  "experiences": [
+    {
+      "id": "spazio-studio",
+      "title": "Study Space — university project",
+      "facts": "For Study Space, a team of three university students explored how students book study rooms.\n\n## Your contribution\nYou prepared an interview guide, took part in interviews with two classmates and collected the notes. You suggested showing the available times up front. You learned to check what people need before choosing a feature. You did not lead the team, build the prototype or work for a client.\n\n## The team's work\nThe interviews revealed that students had trouble seeing which times were available before choosing a room. Another team member designed a clickable prototype. The team then showed it to the same two classmates.\n\n## What we know about the outcome\nOne classmate said the available times were easier to find. The other asked for a filter by room capacity. The team did not measure time saved, percentage improvements, usage after launch or financial results. These are all the facts available. Ask about any further details before assuming them.",
+      "questions": [
+        "Tell me about a time when you helped identify a need and propose a solution.",
+        "What specific choice did you make in the Study Space project?",
+        "How did you check whether the proposal was useful to the people who would use the service?",
+        "What would you do differently on a similar project?"
+      ]
+    },
+    {
+      "id": "bacheca-volontari",
+      "title": "Events Noticeboard — volunteering",
+      "facts": "You also volunteered occasionally at a neighborhood association.\n\n## Your contribution\nYou collected the dates and locations of four free events from the coordinator and copied them onto a paper noticeboard. While checking the information, you noticed that two events listed different directions to the same entrance. You asked the coordinator which directions were correct and updated the noticeboard after she confirmed them. You did not manage the volunteers, organize the events or build any digital tools for this activity.\n\n## The coordinator's role\nThe coordinator organized the events and decided what information to publish.\n\n## What we know about the outcome\nOne attendee said it was convenient to find dates and locations together. The association did not measure attendance increases, time saved or any other outcomes. These are all the facts available. Ask about any further details before assuming them.",
+      "questions": [
+        "Tell me about your contribution to the association's events noticeboard.",
+        "How did you handle the conflicting directions to the entrance?",
+        "What did you learn from this experience?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+#!/bin/sh
+# Developer-only guard. The participant app does not require Python.
+set -eu
+arena_root=$(git rev-parse --show-toplevel)
+if ! command -v python3 >/dev/null 2>&1; then
+    printf '%s\n' 'Publication blocked: privacy guard requires Python 3 on the development machine.' >&2
+    exit 1
+fi
+# Prefer the installed copy outside the checkout: switching to an old branch
+# must not remove the privacy guard protecting that branch's private history.
+arena_guard=$(git rev-parse --git-path hooks/arena-publication-guard.py)
+if [ ! -f "$arena_guard" ]; then
+    arena_guard="$arena_root/scripts/check-publication.py"
+fi
+if [ ! -f "$arena_guard" ]; then
+    printf '%s\n' 'Publication blocked: privacy guard is missing.' >&2
+    exit 1
+fi
+exec python3 "$arena_guard" --pre-push "$1"

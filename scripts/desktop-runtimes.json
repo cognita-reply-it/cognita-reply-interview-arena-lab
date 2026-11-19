@@ -1,0 +1,13 @@
+{
+  "engine_version": "b11233",
+  "linux-x64": {
+    "kit_version": "0.1.8",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11233/llama-b11233-bin-ubuntu-x64.tar.gz",
+    "sha256": "21773f64c04f30645f04ecb004b927dfea209c7e3c4a174d632d35c2311607a3"
+  },
+  "windows-x64": {
+    "kit_version": "0.1.8",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11233/llama-b11233-bin-win-cpu-x64.zip",
+    "sha256": "bb7020dce1ba359a402c6520a8bcbad561d3aecb9fa40d6fd15a50d3e4d8756b"
+  }
+}

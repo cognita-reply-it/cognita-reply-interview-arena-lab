@@ -1,0 +1,22 @@
+{
+  "kit_version": "0.1.8",
+  "model": {
+    "name": "Qwen3.5-4B-Q4_K_M.gguf",
+    "url": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/resolve/e87f176479d0855a907a41277aca2f8ee7a09523/Qwen3.5-4B-Q4_K_M.gguf",
+    "sha256": "00fe7986ff5f6b463e62455821146049db6f9313603938a70800d1fb69ef11a4",
+    "size": 2740937888,
+    "revision": "e87f176479d0855a907a41277aca2f8ee7a09523",
+    "license": "Apache-2.0"
+  },
+  "engine": {
+    "version": "b11233",
+    "commit": "d77dd0806dc26fc418273ef99f88da11239ca41b",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11233/llama-b11233-bin-macos-arm64.tar.gz",
+    "sha256": "0daa6915a5b2d9eceafe4671566382c65412c42385db445a9279c4052b89abb4",
+    "license": "MIT"
+  },
+  "build": {
+    "go": "go1.27.1",
+    "sha256": "ee215d57e0ec269c60cc9ceca68e6bda321ba9ee5afe24f4b0988703c2d87d12"
+  }
+}
